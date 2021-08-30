@@ -23,3 +23,6 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # vue3-app
+* vue3 more than root element
+*  `data` property in component must be a function
+* teleport
